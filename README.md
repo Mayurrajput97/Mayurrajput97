@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurrajput97&label=Profile%20views&color=0e75b6&style=flat" alt="mayurrajput97" /> </p>
 
-- 🌱 I’m currently learning **Java,Data Warehousing,Databases,ETL**
+- 🌱 I’m currently learning **Data Warehousing,Databases,ETL Processes**
 
 - 💬 Ask me about **MySQL,Cloud**
 
