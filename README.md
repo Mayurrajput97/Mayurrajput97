@@ -1,4 +1,3 @@
-![](https://i.pinimg.com/564x/16/73/33/1673334fe843088dad32f1aaebdab3ca.jpg)
 <h1 align="center">Hi 👋, I'm Mayur Rajput</h1>
 <h3 align="center">Turning Data into Insights | Final Year IT Student | SQL Aficionado</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
