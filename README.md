@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurrajput97&label=Profile%20views&color=0e75b6&style=flat" alt="mayurrajput97" /> </p>
 
-- 🌱 I’m currently learning **Data Warehousing,Databases,ETL Processes**
+- 🌱 I’m currently learning **Spring Boot,Dart,ETL Processes**
 
 - 💬 Ask me about **MySQL,Cloud**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yuvi298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvi298" height="30" width="40" /></a>
+<a href="https://twitter.com/MayurRajput298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MayurRajput298" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayur-rajput-a889a7237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-rajput-a889a7237" height="30" width="40" /></a>
 <a href="https://instagram.com/mayur.rajput298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur.rajput298" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mayurrajput7827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayurrajput7827" height="30" width="40" /></a>
