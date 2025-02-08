@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurrajput97&label=Profile%20views&color=0e75b6&style=flat" alt="mayurrajput97" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot,Dart,ETL Processes**
+- 🌱 I’m currently learning **Python, Firebase, Riverpod Architecture**
 
-- 💬 Ask me about **MySQL,Cloud**
+- 💬 Ask me about **MySQL, Flutter, Firebase**
 
 - 📫 How to reach me **mayurrajput7827@gmail.com**
 
